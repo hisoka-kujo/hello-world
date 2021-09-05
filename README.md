@@ -1,4 +1,2 @@
 # hello-world
-hello world repository
-hi i am so tired i want to go to bed
-leirj;dfjhgearjihoerjhoierjhoitjeritojereraiojgoirlkfgklerkyaeorijf
+This is Segun's work
