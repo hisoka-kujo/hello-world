@@ -6,6 +6,6 @@ High frame rate allows you to make accurate scans of characters, useful for maki
 
 • Transport and Navigation
 Satnavs can create maps e.g Google earth
-Self driving cars
+Image detection with high frame rates
 • Medicine and Healthcare
-Detect cancer cells and cysts
+Image detection can identify abnormal growths with high accuracy as they can compare against a large database of images. This makes identifying cancers much easier for doctors. However, if the databse doesn't have a wide variety of demographics it might produce inaccurate results. For example, skin cancer has different appearances between skin tones.
