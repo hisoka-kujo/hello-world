@@ -1,12 +1,16 @@
 • Travel and Tourism
 Airport security can detect forbidden items
+CT scanners at airports would benefit from image detection and would make detecting contraband easier. If there were images on the databases of these forbidden items and the scanner was scanning at a high frame rate they would be able to detect items when the security guards might not the be able to. One limitation is taht
+
 • Gaming and Entertainment
 High frame rate allows you to make accurate scans of characters, useful for making high quality video games/ movies
+Accurate image detection technology can improve CGI in video games and movies. If the image detection technology has a high frame rate, it can take accurate scans of the movement of humans and better quality animations. One disadvantage is
+
 • Education and Learning
+Image detection can be uses to create adaptive revision methods. This would be beneficial for languages, as you can create a flashcard system. When somebody gets the correct answer, the image detection technology can recognise that the person is strong on the topic and doesn't need to revise that topic as frequently as others. However, there are some drawbacks. If there are objects which are look similar/ if the pictures are blurry, the software may confuse the items with eachother, decreasing the quality of learning for the user.
 
 • Transport and Navigation
-Satnavs can create maps e.g Google earth
-Image detection with high frame rates
-Image detection is essential technology to self-driving cars. The technology in the car must have high frame rates, otherwise the car will get in to lots of accidents as it doesn't have an accurate image of the real time world. Image detection is also important for maps, such as google earth, which use image detection to make an accurate image of the real world based on images.
+Image detection is essential technology to self-driving cars. The technology in the car must have high frame rates, otherwise the car will get in to lots of accidents as it doesn't have an accurate image of the real time world. Image detection is also important for maps, such as google earth, which use image detection to make an accurate image of the real world based on images.A limitation of self driving cars is that they can only drive if they have the road maps on their database; this can lead to inconvencies for the driver. One drawback is that there might be some road vehicles which don't have any images on the database of the car, meaning they wouldn't be detected by the self-driving car, putting the passengers at risk.
+
 • Medicine and Healthcare
-Image detection can identify abnormal growths with high accuracy as they can compare against a large database of images. This makes identifying cancers much easier for doctors. However, if the databse doesn't have a wide variety of demographics it might produce inaccurate results. For example, skin cancer has different appearances between skin tones.
+Image detection can identify abnormal growths with high accuracy as they can compare against a large database of images. This makes identifying cancers much easier for doctors. However, if the database doesn't have a wide variety of demographics it might produce inaccurate results. For example, skin cancer has different appearances between skin tones, and this could possibly lead to a misdiagnosis.
