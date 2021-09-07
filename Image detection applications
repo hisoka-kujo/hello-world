@@ -1,10 +1,10 @@
 • Travel and Tourism
 Airport security can detect forbidden items
-CT scanners at airports would benefit from image detection and would make detecting contraband easier. If there were images on the databases of these forbidden items and the scanner was scanning at a high frame rate they would be able to detect items when the security guards might not the be able to. One limitation is taht
+CT scanners at airports would benefit from image detection and would make detecting contraband easier. If there were images on the databases of these forbidden items and the scanner was scanning at a high frame rate they would be able to detect items when the security guards might not the be able to. A limitation is that items are often hidden in between lots of clothes and other items, meaning that the scans will lack lots of detail: this means the software might not always detect the contrabant. One drawback. is that CT scanners scan in black and white, meaning the images on the database would also have to be black and white, making the items less disctinctive and more prone to error.
 
 • Gaming and Entertainment
 High frame rate allows you to make accurate scans of characters, useful for making high quality video games/ movies
-Accurate image detection technology can improve CGI in video games and movies. If the image detection technology has a high frame rate, it can take accurate scans of the movement of humans and better quality animations. One disadvantage is
+Accurate image detection technology can improve CGI in video games and movies. If the image detection technology has a high frame rate, it can take accurate scans of the movement of humans and better quality animations. One limitation is that taking accurate humans scans is very expensive and it takes very long to animate people.
 
 • Education and Learning
 Image detection can be uses to create adaptive revision methods. This would be beneficial for languages, as you can create a flashcard system. When somebody gets the correct answer, the image detection technology can recognise that the person is strong on the topic and doesn't need to revise that topic as frequently as others. However, there are some drawbacks. If there are objects which are look similar/ if the pictures are blurry, the software may confuse the items with eachother, decreasing the quality of learning for the user.
