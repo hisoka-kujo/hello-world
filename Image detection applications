@@ -7,5 +7,6 @@ High frame rate allows you to make accurate scans of characters, useful for maki
 • Transport and Navigation
 Satnavs can create maps e.g Google earth
 Image detection with high frame rates
+Image detection is essential technology to self-driving cars. The technology in the car must have high frame rates, otherwise the car will get in to lots of accidents as it doesn't have an accurate image of the real time world. Image detection is also important for maps, such as google earth, which use image detection to make an accurate image of the real world based on images.
 • Medicine and Healthcare
 Image detection can identify abnormal growths with high accuracy as they can compare against a large database of images. This makes identifying cancers much easier for doctors. However, if the databse doesn't have a wide variety of demographics it might produce inaccurate results. For example, skin cancer has different appearances between skin tones.
